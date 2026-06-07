@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368629443683",
+    "project_id": "scribe-f5047",
+    "storage_bucket": "scribe-f5047.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368629443683:android:7678c4fabf2949a426dc56",
+        "android_client_info": {
+          "package_name": "com.aistudio.notesforbaptists.puzgqk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368629443683-std28j2rqgpfkpnteo00173l0qgol7k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdc5xduZ8NqQzfyedqfb-v088LvAgwqbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368629443683-std28j2rqgpfkpnteo00173l0qgol7k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

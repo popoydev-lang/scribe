@@ -1,0 +1,6 @@
+{
+  "name": "Scribe",
+  "description": "A complete elegant sermon notes, BSB Bible reader, church planner, and church directory application designed for Fundamental Baptists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
